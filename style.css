@@ -1,18 +1,20 @@
-body{
-  background-color: white;
-  color: #FFA500;
+body {
+  background-color: #ADD8E6;
+  color: #ffffff;
 }
 
-.kartuprofil {
-    width: 300px;
-    margin: 50px;
-    padding: 20px;
-    background-color: #00FFFF;
-    border-radius: 15px;
-    text-align: center;
+.profil-gweh {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #000000;
+  border-radius: 10px;
+  text-align: center;
 }
 
-.kartuprofil img {
-    width: 150px;
-    border-radius: 50%;
+.profil-gweh img {
+  widrh: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
 }
